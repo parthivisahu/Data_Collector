@@ -1,0 +1,42 @@
+body {
+  background-color: #254396;
+  color: #c7eeee;
+  font-family: monospace;
+}
+
+table {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+table,
+th,
+td {
+  padding: 10px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  font-weight: bold;
+  background-color: #a6dcf1;
+  color: #0b1537;
+  font-size: 15px;
+}
+
+th {
+  background-color: #172d67;
+  color: #dbe4e4;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
